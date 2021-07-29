@@ -1,4 +1,4 @@
-#This art is done by PGT
+#This art is done by Gokul-Thilaak-P
 hangman = ['''
 |=======
 |     | 
